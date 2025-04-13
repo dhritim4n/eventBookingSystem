@@ -36,7 +36,7 @@
 }
 
 .react-calendar__tile--now {
-    border: 5px solid white;
+    border: 5px solid black;
     box-sizing: border-box;
     
   }
@@ -53,3 +53,17 @@
     height: 10vh;
 
 }
+
+
+.event-day {
+    background-color: #ffcccc !important;
+    color: #b30000 !important;
+
+  }
+
+
+.no-event-day {
+    background-color: #ccffcc !important;
+    color: #006600 !important;
+
+  }
