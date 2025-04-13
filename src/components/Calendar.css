@@ -21,16 +21,18 @@
 .react-calendar__month-view__weekdays{
     display: flex;
     
+    text-align: center;
+    
 }
 
 .react-calendar__month-view__days__day{
-    margin-top: 1vh;
-    margin-left: 2vh;
+
+    
     
 }
 
 .react-calendar__tile{
-    
+  margin-bottom: 1%;
 }
 
 .react-calendar__tile--now {
