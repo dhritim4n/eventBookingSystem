@@ -18,18 +18,19 @@
 
 }
 
-.react-calendar__tile react-calendar__month-view__days__day react-calendar__month-view__days__day--neighboringMonth{
-    height: 50px;
+.react-calendar__month-view__days__day{
+    margin: 1vh;
     
 }
 
-.react-calendar__tile react-calendar__month-view__days__day{
-    padding: 25%;
+.react-calendar__tile{
+    margin-left: 2%;
 }
 
 .react-calendar__tile--now {
-    border: 2px solid #007bff;
+    border: 5px solid white;
     box-sizing: border-box;
+    
   }
 
 .btn{

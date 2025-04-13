@@ -12,7 +12,8 @@ function Form(){
         <input className="FormInput" type="text" id="title" placeholder="Event Title" />
         <input className="FormInput" type="text" id="date" placeholder="Event Date(yyyy-mm-dd)"/>
         <input className="FormInput" type="text" id="time" placeholder="Event Time(hh:mm (AM/PM))"/>
-        <input className="FormInput" type="text" id="name" placeholder="Name" />
+        <input className="FormInput" type="text" id="desc" placeholder="Event Description" />
+        <input className="FormInput" type="text" id="name" placeholder="Name"/>
         <input className="FormInput" type="text" id="email" placeholder="Email" />
         <input className="FormSubmit" type="submit" value="submit" />
 

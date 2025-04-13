@@ -10,7 +10,10 @@ function App() {
   return (
     
     <div className="App">
+      <div className="homeTitle">
       <h1 className='h1'>Event Booking System</h1>
+      </div>
+      
       <ReactCalendar/>
       <EventGrid events={events} />
       <Form/>
