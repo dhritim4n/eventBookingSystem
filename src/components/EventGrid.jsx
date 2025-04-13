@@ -10,21 +10,7 @@ function EventGrid({ events }) {
   return (
     <>
   
-    <div className="title">
-    <h2>Selected Date:- {getSelectedDate}</h2>
-    </div>
 
-    <div className="event-grid">
-        
-        {getEventByDate(events,getSelectedDate().toISOString().slice(0,10)).map((event) => (
-          <div key={event.id} className="event-card">
-            <h3>{event.title}</h3>
-            <p><strong>Date:</strong> {event.date}</p>
-            <p><strong>Time:</strong> {event.time}</p>
-            <p>{event.description}</p>
-          </div>
-        ))}
-    </div>
 
     <div className="title" id="UpcomingEvent">
         <h2>Upcoming Events:-</h2>

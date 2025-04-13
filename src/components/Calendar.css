@@ -18,13 +18,19 @@
 
 }
 
+.react-calendar__month-view__weekdays{
+    display: flex;
+    
+}
+
 .react-calendar__month-view__days__day{
-    margin: 1vh;
+    margin-top: 1vh;
+    margin-left: 2vh;
     
 }
 
 .react-calendar__tile{
-    margin-left: 2%;
+    
 }
 
 .react-calendar__tile--now {

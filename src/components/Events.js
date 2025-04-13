@@ -1,30 +1,7 @@
-// events.js
+import data from './Events.json'
 
 
-export const events = [
-    {
-      id: 1,
-      title: 'Team Meeting',
-      date: '2025-04-14',
-      time: '10:00 AM',
-      description: 'Monthly sync with team members.',
-    },
-    {
-      id: 2,
-      title: 'Product Launch',
-      date: '2025-04-18',
-      time: '2:00 PM',
-      description: 'Launch of the new app version.',
-    },
-    
-    {
-        id: 3,
-        title: 'Product Launch',
-        date: '2025-04-12',
-        time: '2:00 PM',
-        description: 'Launch of the new app version.',
-      },
-  ];
+export const events = data;
 
 
 let selectedDate = new Date(); 
