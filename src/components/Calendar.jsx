@@ -4,9 +4,9 @@ import './Calendar.css';
 import {getUpcomingEvents, getSelectedDate, setSelectedDate} from './Events';
 import events from './Events.json';
 
-function ReactCalendar() {
+function ReactCalendar({value, setValue}) {
   
-  const [value, setValue] = useState(new Date());
+ 
   const [eventDates, setEventDates] = useState(new Set());
   
   useEffect(() => {
