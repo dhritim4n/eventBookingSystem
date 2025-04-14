@@ -10,7 +10,7 @@ function EventGrid({ events,value,SetValue}) {
   return (
     <>
 
-    <div className="title" id="UpcomingEvent">
+    <div className="title" id="SelectedDateEvent">
         <h2>{value.toLocaleDateString('en-CA')} Events:-</h2>
     </div>
 

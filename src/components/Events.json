@@ -1,32 +1,107 @@
 [
-    {
-      "id": 1,
-      "title": "Team Meeting",
-      "date": "2025-04-14",
-      "time": "10:00 AM",
-      "description": "Monthly sync with team members."
-    },
-    {
-      "id": 2,
-      "title": "Product Launch",
-      "date": "2025-04-18",
-      "time": "2:00 PM",
-      "description": "Launch of the new app version."
-    },
-    {
-      "id": 3,
-      "title": "Product Launch",
-      "date": "2025-04-12",
-      "time": "2:00 PM",
-      "description": "Launch of the new app version."
-    },
-
-    {
-      "id": 4,
-      "title": "Product Launch",
-      "date": "2026-04-12",
-      "time": "2:00 PM",
-      "description": "Launch of the new app version."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Team Meeting",
+    "date": "2025-04-14",
+    "time": "10:00 AM",
+    "description": "Monthly sync with team members."
+  },
+  {
+    "id": 2,
+    "title": "Product Launch",
+    "date": "2025-04-18",
+    "time": "2:00 PM",
+    "description": "Launch of the new app version."
+  },
+  {
+    "id": 3,
+    "title": "Marketing Review",
+    "date": "2025-04-20",
+    "time": "11:30 AM",
+    "description": "Review last quarter’s marketing performance."
+  },
+  {
+    "id": 4,
+    "title": "Dev Sprint Planning",
+    "date": "2025-04-22",
+    "time": "9:00 AM",
+    "description": "Plan the next sprint with the development team."
+  },
+  {
+    "id": 5,
+    "title": "Client Demo",
+    "date": "2025-04-25",
+    "time": "1:00 PM",
+    "description": "Showcase the product demo to the new client."
+  },
+  {
+    "id": 6,
+    "title": "Design Brainstorm",
+    "date": "2025-04-28",
+    "time": "3:00 PM",
+    "description": "Collaborative session for UI/UX improvements."
+  },
+  {
+    "id": 7,
+    "title": "All-Hands Meeting",
+    "date": "2025-05-02",
+    "time": "10:00 AM",
+    "description": "Company-wide meeting to discuss goals."
+  },
+  {
+    "id": 8,
+    "title": "Bug Bash",
+    "date": "2025-05-05",
+    "time": "4:00 PM",
+    "description": "Team event to squash outstanding bugs together."
+  },
+  {
+    "id": 9,
+    "title": "Product Launch",
+    "date": "2025-05-10",
+    "time": "2:00 PM",
+    "description": "Release of the new dashboard feature."
+  },
+  {
+    "id": 10,
+    "title": "1:1 Check-in",
+    "date": "2025-05-13",
+    "time": "10:30 AM",
+    "description": "Bi-weekly check-in with direct reports."
+  },
+  {
+    "id": 11,
+    "title": "Strategy Session",
+    "date": "2025-05-15",
+    "time": "3:00 PM",
+    "description": "Discuss and align on Q3 goals."
+  },
+  {
+    "id": 12,
+    "title": "Internal Training",
+    "date": "2025-05-17",
+    "time": "1:30 PM",
+    "description": "Workshop on new development practices."
+  },
+  {
+    "id": 13,
+    "title": "Team Lunch",
+    "date": "2025-05-20",
+    "time": "12:00 PM",
+    "description": "Casual lunch to boost team morale."
+  },
+  {
+    "id": 14,
+    "title": "Stakeholder Presentation",
+    "date": "2025-05-22",
+    "time": "11:00 AM",
+    "description": "Present project updates to stakeholders."
+  },
+  {
+    "id": 15,
+    "title": "Final QA Round",
+    "date": "2025-05-29",
+    "time": "2:30 PM",
+    "description": "Final round of QA before release."
+  }
+]
