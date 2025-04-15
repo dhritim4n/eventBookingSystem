@@ -68,40 +68,5 @@
     "date": "2025-05-13",
     "time": "10:30 AM",
     "description": "Bi-weekly check-in with direct reports."
-  },
-  {
-    "id": 11,
-    "title": "Strategy Session",
-    "date": "2025-05-15",
-    "time": "3:00 PM",
-    "description": "Discuss and align on Q3 goals."
-  },
-  {
-    "id": 12,
-    "title": "Internal Training",
-    "date": "2025-05-17",
-    "time": "1:30 PM",
-    "description": "Workshop on new development practices."
-  },
-  {
-    "id": 13,
-    "title": "Team Lunch",
-    "date": "2025-05-20",
-    "time": "12:00 PM",
-    "description": "Casual lunch to boost team morale."
-  },
-  {
-    "id": 14,
-    "title": "Stakeholder Presentation",
-    "date": "2025-05-22",
-    "time": "11:00 AM",
-    "description": "Present project updates to stakeholders."
-  },
-  {
-    "id": 15,
-    "title": "Final QA Round",
-    "date": "2025-05-29",
-    "time": "2:30 PM",
-    "description": "Final round of QA before release."
   }
 ]
